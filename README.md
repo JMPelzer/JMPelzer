@@ -4,10 +4,11 @@ Web Development Assignment – GIT 413
 Created: October 2025
 -->
 <p align="center">
-  <img src="./github-header-banner.png"
-       alt="Hello I'm Jennifer Pelzer — Accessibility-First Full-Stack Web Developer"
-       width="100%" />
+<img width="1700" height="460" alt="github-header-banner png" src="https://github.com/user-attachments/assets/de8b6afc-7a82-4f05-b238-a77d6436dd00" 
+ alt="Hello I'm Jennifer Pelzer — Accessibility-First Full-Stack Web Developer"
+ width="100%" />
 </p>
+
 
 ---
 
