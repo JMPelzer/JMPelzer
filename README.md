@@ -8,8 +8,8 @@ Created: October 2025
 ### Accessibility-First Full-Stack Web Developer  
 **Inclusive by Design — Usable by Everyone**
 
-![Hero Banner](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/55df642a-03d7-4350-9181-a7979af86002" />
- "Navy and Plum Gradient Hero Banner with Jennifer Pelzer Logo")
+![github-header-banner](https://github.com/user-attachments/assets/55df642a-03d7-4350-9181-a7979af86002 "Navy and Plum Gradient Hero Banner with Jennifer Pelzer Logo")
+
 
 ---
 
