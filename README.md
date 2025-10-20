@@ -3,8 +3,11 @@ README for Jennifer Pelzer
 Web Development Assignment – GIT 413
 Created: October 2025
 -->
-<!-- Top banner: use pure Markdown (no <img> inside) -->
-![github-header-banner](https://github.com/user-attachments/assets/55df642a-03d7-4350-9181-a7979af86002 "Navy and Plum Gradient Hero Banner with Jennifer Pelzer Logo")
+<p align="center">
+  <img src="https://github.com/JMPelzer/JMPelzer/blob/main/github-header-banner%20(1).png"
+       alt="Hello I'm Jennifer Pelzer — Accessibility-First Full-Stack Web Developer"
+       width="100%" />
+</p>
 
 ---
 
