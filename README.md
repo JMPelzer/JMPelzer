@@ -3,29 +3,26 @@ README for Jennifer Pelzer
 Web Development Assignment – GIT 413
 Created: October 2025
 -->
-
-#Jennifer Pelzer
-### Accessibility-First Full-Stack Web Developer  
-**Inclusive by Design — Usable by Everyone**
-
+<!-- Top banner: use pure Markdown (no <img> inside) -->
 ![github-header-banner](https://github.com/user-attachments/assets/55df642a-03d7-4350-9181-a7979af86002 "Navy and Plum Gradient Hero Banner with Jennifer Pelzer Logo")
-
 
 ---
 
 ## 🌐 About Me
-Hi, I'm **Jennifer**, a Full-Stack Web Developer who combines front-end engineering with usability and accessibility testing to build inclusive, user-centered digital experiences.  
+Hi, I'm **Jennifer**, a Full-Stack Web Developer who combines front-end engineering with usability and accessibility testing to build inclusive, user-centered digital experiences.
 
 I focus on **WCAG**, **ARIA**, and **design systems** that make the web work better for everyone. My approach starts with listening to users and designing with inclusion in mind from the very beginning.
 
 ---
 
 ## 📬 Contact & Links
-📍 Munich, Germany  
-✉️ [Email Me](mailto:jenniferpelzer3@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/jennifer-pelzer-a27243277)  
-🎨 [Portfolio (Behance)](https://www.behance.net/jenniferpelzer1)  
-💻 [My GitHub Projects](https://github.com/JMPelzer?tab=repositories)
+- 📍 Munich, Germany
+- ✉️ [Email Me](mailto:jenniferpelzer3@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jennifer-pelzer-a27243277/)
+- 🎨 [Portfolio (Behance)](https://www.behance.net/jenniferpelzer1)
+- 💻 [My GitHub Projects](https://github.com/JMPelzer?tab=repositories)
+
+
 
 ---
 
