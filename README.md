@@ -33,7 +33,7 @@ Accessibility-first **Full-Stack Web Developer**. I build inclusive, usable inte
 
 ---
 
-## 🧭 Design Philosophy (short)
+## 🧭 Design Philosophy
 I design for **people first**. Accessibility and usability reinforce each other: when we remove friction, everyone benefits.
 
 - Built-in accessibility (not a retrofit)  
