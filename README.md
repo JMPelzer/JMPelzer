@@ -1,8 +1,9 @@
 
+
 <!-- README for Jennifer Pelzer · Updated November 2026 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de8b6afc-7a82-4f05-b238-a77d6436dd00"
+  <img width="1584" height="396" alt="connecting people and technology through accessible experiences (2)" src="https://github.com/user-attachments/assets/bca44b40-a02c-4cbd-a9cc-7746b50fe59e" />
        alt="Jennifer Pelzer — Accessibility-First Full-Stack Web Developer" width="100%">
 </p>
 
