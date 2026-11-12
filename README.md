@@ -1,11 +1,8 @@
-
-
-
 <!-- README for Jennifer Pelzer · Updated November 2026 -->
 
 <p align="center">
   <img
-   src="https://github.com/user-attachments/assets/5c906a35-ae07-47ab-b6bb-12645291183d"
+ src="https://github.com/user-attachments/assets/a5f0814a-4a77-4a69-a435-a762bc7a4207"
     alt="Jennifer Pelzer — Connecting people and technology through accessible experiences. Frontend Engineering, Accessibility, Human-Centered Design."
     width="100%"
   />
