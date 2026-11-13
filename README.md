@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
- src="https://github.com/user-attachments/assets/a5f0814a-4a77-4a69-a435-a762bc7a4207"
-    alt="Jennifer Pelzer — Connecting people and technology through accessible experiences. Frontend Engineering, Accessibility, Human-Centered Design."
+src="https://github.com/user-attachments/assets/02325332-1917-43fb-9491-58ee1a25ab9a"
+    alt="Jennifer Pelzer — Connecting people and technology through accessible experiences. Frontend Engineering, Full Stack, Human-Centered Design."
     width="100%"
   />
 </p>
